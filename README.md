@@ -46,5 +46,5 @@ python3 main.py
 ## Credits
 
 This is made by following a tutorial by `coder space` on youtube. following is the link to the video.
-![LINK](https://youtu.be/RxWS5h1UfI4?si=ol8TYsyN_I8hL7yE)
+[LINK](https://youtu.be/RxWS5h1UfI4?si=ol8TYsyN_I8hL7yE)
 
